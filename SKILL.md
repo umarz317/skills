@@ -5,7 +5,7 @@ description: Create and refine code-rendered videos, motion graphics, product de
 
 # Motion Studio
 
-Turn a brief into a finished video with editable source and reproducible render instructions. Work in the user's project, preserve its instructions and working renderer, and match the effort to the requested deliverable.
+Turn an idea into a finished video. Include source files the user can edit and clear steps to render the video again. Work in the user's project, follow its instructions, and use its existing tools. Match the work to what the user asks for.
 
 ## Choose the work needed
 
